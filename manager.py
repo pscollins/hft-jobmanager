@@ -1,4 +1,6 @@
+import spur
 
+import manager_cfg
 
 class AbstractNetworkConnection:
     def get_hosts(self):

@@ -52,3 +52,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Config files
+manager_cfg.py
+manager_cfg.py~
